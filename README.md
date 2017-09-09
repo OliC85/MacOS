@@ -1,7 +1,1 @@
-1. [Setup](https://github.com/OliC85/CentOS/tree/master/Setup)
-2. [Git](https://github.com/OliC85/CentOS/tree/master/Git)
-3. [Python](https://github.com/OliC85/CentOS/tree/master/Python)
-4. [Django](https://github.com/OliC85/CentOS/tree/master/Django)
-5. [uWSGI](https://github.com/OliC85/CentOS/tree/master/uWSGI)
-6. [Nginx](https://github.com/OliC85/CentOS/tree/master/Nginx)
-7. [PostgreSQL](https://github.com/OliC85/CentOS/tree/master/PostgreSQL) 
+README
