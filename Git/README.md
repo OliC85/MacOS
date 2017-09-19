@@ -11,16 +11,16 @@ $ ssh-keygen -t rsa -C "Oli_C85@icloud.com"
 
 # Edit .zshrc
 ```sh
-$ vim ~/.zshrc
-```
-## .zshrc
-```sh
-# Github
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/Oli
 ```
 ```sh
 $ source ~/.zshrc
+```
+
+# Create .gitignore
+```sh
+$ curl https://raw.githubusercontent.com/github/gitignore/master/Global/macOS.gitignore -o ~/.gitignore
 ```
 
 # Make Git directory
